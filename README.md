@@ -1,2 +1,3 @@
 # random-password-generator
 this generate random password for you , can be customized length with python,... 
+I'll update and add more function into this , make it into a menu to gen you a password with fully customized (characters , numbers , signs)
